@@ -26,7 +26,7 @@ A content and product concept focused on connecting African-language contributor
 
 Focus: Content strategy, information architecture, UX writing, technical communication, and AI-language data.
 
-"View case study" (case-studies/afrilang-ai-content-project.md)
+"View case study" [View case study](case-studies/afrilang-ai.md)
 
 Digital Service Content Redesign
 
